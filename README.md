@@ -54,13 +54,14 @@
     4. Extracción de características en series de tiempo.
 
 `Módulo 3.` **Modelos Avanzados de Aprendizaje Supervizado.**
+
     1. Máquinas de Vector Soporte (SVM)
         - Kernels en SVM
         
     2. Concepto general y Tipos de redes neuronales artificiales: 
         - Perceptron.
     
-    3. Redes Neuronales Convolucionales..
+    3. Redes Neuronales Convolucionales.
         - Ejercicios en python.
     
     4. Arquitecturas recurrentes con compuertas: LSTM y GRU.
